@@ -1,5 +1,3 @@
-import React from 'react';
-
 // Iconiță pentru checklist-ul din secțiunea Detalii
 export const CheckIcon = () => (
   <svg className="h-6 w-6 flex-shrink-0 text-rohan-gold" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
